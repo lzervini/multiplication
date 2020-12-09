@@ -129,3 +129,10 @@ img{
 .verify:hover{
     color:white;
 }
+
+div.separator {
+    border-bottom-style: solid;
+    border-color: gray;
+    margin: auto 10px;
+    padding-bottom: 20px;
+    }
